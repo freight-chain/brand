@@ -12,29 +12,24 @@
 
 #### Primary Colour Guide
 
-Teal #31ECE6 <br>
-Dark Blue #002D7B <br>
-Light Green #61EF81 <br>
-Light Gray #FFFFFF <br>
+Container Blue <br>
+`#495bfb` <br>
 
-Blue
-`#495bfb` 
+Red Sea Red <br>
+219,20,83 <br>
+`#db1453` <br>
 
-Highlighted Red
-219,20,83
-`#db1453`
+Dark Ocean Blue <br>
+42, 51, 161 <br> 
+`#2a34a1` <br>
 
-Dark Blue
-42, 51, 161
-`#2a34a1`
+SOS Red <br>
+196, 88, 98 <br>
+`#c45863` <br>
 
-Button Red
-196, 88, 98
-`#c45863`
+Clear Waters Teal <br>
+129, 217, 232 <br>
+`#81d9e8` <br>
 
-Teal
-129, 217, 232
-`#81d9e8`
-
-
+---
 (C) 2019 - FreightTrust & Clearing Corporation - All Rights Reserved
