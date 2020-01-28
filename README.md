@@ -17,6 +17,24 @@ Dark Blue #002D7B <br>
 Light Green #61EF81 <br>
 Light Gray #FFFFFF <br>
 
+Blue
+`#495bfb` 
+
+Highlighted Red
+219,20,83
+`#db1453`
+
+Dark Blue
+42, 51, 161
+`#2a34a1`
+
+Button Red
+196, 88, 98
+`#c45863`
+
+Teal
+129, 217, 232
+`#81d9e8`
 
 
 (C) 2019 - FreightTrust & Clearing Corporation - All Rights Reserved
