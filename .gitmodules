@@ -1,0 +1,3 @@
+[submodule "postmark-templates"]
+	path = postmark-templates
+	url = https://github.com/wildbit/postmark-templates.git
